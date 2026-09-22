@@ -59,6 +59,7 @@ Dataset
 This project utilizes publicly available fake and real news datasets along with domain credibility datasets for whitelist and blacklist verification. 
 The preprocessing pipeline generates cleaned and merged datasets used during model training.
 
+
  How to Run
 
  Clone the repository
