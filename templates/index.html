@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fake News Verifier</title>
+    <style>
+        /* --- Reset & Base Styles --- */
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background: #f4f7f8; color: #333; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        h1 { margin-top: 40px; color: #1e3a8a; text-align: center; }
+
+        /* --- Container --- */
+        .container {
+            background: #fff;
+            padding: 30px 40px;
+            margin: 40px 0;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+            max-width: 700px;
+            width: 90%;
+        }
+
+        /* --- Form Elements --- */
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 15px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+        input[type="text"]:focus, textarea:focus {
+            border-color: #1e3a8a;
+            outline: none;
+            box-shadow: 0 0 5px rgba(30, 58, 138, 0.3);
+        }
+
+        button {
+            background: #1e3a8a;
+            color: #fff;
+            padding: 15px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+        button:hover {
+            background: #3745b0;
+        }
+
+        /* --- Result Box --- */
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 18px;
+            display: none;
+        }
+        .result.real { background: #d1fae5; color: #065f46; }
+        .result.suspicious { background: #fef3c7; color: #78350f; }
+        .result.fake { background: #fee2e2; color: #991b1b; }
+
+        footer { margin-top: auto; padding: 20px; font-size: 14px; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Fake News Detection</h1>
+    <div class="container">
+        <form id="verifyForm">
+            <label for="url">Article URL:</label>
+            <input type="text" id="url" name="url" placeholder="Enter the article URL" required>
+
+            <label for="article">Article Text:</label>
+            <textarea id="article" name="article" rows="6" placeholder="Paste the article content here..." required></textarea>
+
+            <button type="submit">Verify</button>
+        </form>
+
+        <div id="result" class="result"></div>
+    </div>
+
+    <footer>
+        &copy; 2025 Fake News Detection App
+    </footer>
+
+    <script>
+        const form = document.getElementById('verifyForm');
+        const resultDiv = document.getElementById('result');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const url = document.getElementById('url').value;
+            const article = document.getElementById('article').value;
+
+            resultDiv.style.display = 'block';
+            resultDiv.textContent = "Verifying...";
+            resultDiv.className = "result";
+
+            try {
+                const response = await fetch('/verify', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: `url=${encodeURIComponent(url)}&article=${encodeURIComponent(article)}`
+                });
+                const data = await response.json();
+
+                let verdictClass = '';
+                if (data.verdict.includes("✅")) verdictClass = 'real';
+                else if (data.verdict.includes("⚠️")) verdictClass = 'suspicious';
+                else verdictClass = 'fake';
+
+                resultDiv.textContent = data.verdict;
+                resultDiv.className = `result ${verdictClass}`;
+            } catch (error) {
+                resultDiv.textContent = "Error verifying the news.";
+                resultDiv.className = "result fake";
+            }
+        });
+    </script>
+</body>
+</html>

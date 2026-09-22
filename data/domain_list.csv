@@ -1,0 +1,1188 @@
+domain,url,bias_rating,factual_reporting_rating,category
+(the) interpreter magazine,http://www.interpretermag.com/,-8,HIGH,whitelist
+680 news,http://www.680news.com/,-3,HIGH,whitelist
+71 republic,https://71republic.com/,15,HIGH,whitelist
+9 news (australia),http://www.9news.com.au/,6,HIGH,whitelist
+abc news australia,http://www.abc.net.au/news/,-4,HIGH,whitelist
+abc news,http://abcnews.go.com/,-13,HIGH,whitelist
+abc11 eyewitness news,http://abc11.com/,-11,HIGH,whitelist
+above the law,http://abovethelaw.com/,-9,HIGH,whitelist
+abs-cbn news,http://news.abs-cbn.com/,-5,HIGH,whitelist
+acculturated,https://acculturated.com,24,HIGH,whitelist
+act.tv,http://act.tv,-26,HIGH,whitelist
+advocate,http://www.advocate.com/,-22,HIGH,whitelist
+aeon,https://aeon.co/,-10,HIGH,whitelist
+afp (agence france presse),https://www.afp.com/en/home,-5,HIGH,whitelist
+africa news,http://www.africanews.com/,-2,HIGH,whitelist
+african arguments,http://africanarguments.org/,-12,HIGH,whitelist
+agerpres,https://www.agerpres.ro/english,-1,HIGH,whitelist
+ahram online,http://english.ahram.org.eg/,-2,HIGH,whitelist
+airwars,https://airwars.org/,-1,HIGH,whitelist
+akkadian times,http://akkadiantimes.com,-22,HIGH,whitelist
+akron beacon journal,http://www.ohio.com/,-9,HIGH,whitelist
+al arabiya,https://english.alarabiya.net/,-3,HIGH,whitelist
+al bawaba,http://www.albawaba.com/,-3,HIGH,whitelist
+al jazeera,http://www.aljazeera.com/,-8,HIGH,whitelist
+al majalla,http://eng.majalla.com/,-4,HIGH,whitelist
+al monitor,http://www.al-monitor.com/pulse/home.html,-13,HIGH,whitelist
+al-hayat,http://www.alhayat.com/,-13,HIGH,whitelist
+al.com (alabama news),http://www.al.com/,13,HIGH,whitelist
+alabama political reporter,http://www.alreporter.com,1,HIGH,whitelist
+alabama today,https://altoday.com/,-2,HIGH,whitelist
+alan guttmacher institute,https://www.guttmacher.org/,-12,HIGH,whitelist
+alaska dispatch news,http://www.adn.com/,-10,HIGH,whitelist
+albany democrat herald,http://democratherald.com,-2,HIGH,whitelist
+albany times-union,http://www.timesunion.com/,-8,HIGH,whitelist
+albuquerque journal,https://www.abqjournal.com/,-5,HIGH,whitelist
+allgov,http://www.allgov.com,-1,VERY HIGH,whitelist
+alliance for justice (afj),https://www.afj.org/,-22,HIGH,whitelist
+alliance for securing democracy,http://securingdemocracy.gmfus.org/,2,HIGH,whitelist
+allied progress,https://alliedprogress.org,-16,HIGH,whitelist
+altnewsmedia.net,https://altnewsmedia.net,24,HIGH,whitelist
+am new york,http://www.amny.com/,-13,HIGH,whitelist
+amandla,http://aidc.org.za/amandla-media/,-23,HIGH,whitelist
+america magazine,http://www.americamagazine.org/,-8,HIGH,whitelist
+americablog,http://americablog.com/,-23,HIGH,whitelist
+american action forum,https://www.americanactionforum.org/,14,HIGH,whitelist
+american civil liberties union (aclu),https://www.aclu.org/,-10,HIGH,whitelist
+american council on science and health,http://acsh.org/,9,HIGH,whitelist
+american firearms institute,http://www.americanfirearms.org,13,HIGH,whitelist
+american foreign policy council (afpc),http://www.afpc.org/,10,HIGH,whitelist
+american heritage,http://www.americanheritage.com,1,HIGH,whitelist
+american military news,https://americanmilitarynews.com,27,HIGH,whitelist
+american public media,https://www.americanpublicmedia.org,-8,HIGH,whitelist
+american spectator,http://spectator.org/,26,HIGH,whitelist
+american united for separation of church and state,http://www.au.org/,-18,HIGH,whitelist
+americas quarterly,http://www.americasquarterly.org/,10,HIGH,whitelist
+ammoland,http://www.ammoland.com/,24,HIGH,whitelist
+amnesty international,https://www.amnesty.org/en/,-5,HIGH,whitelist
+angry white men,https://angrywhitemen.org,-21,HIGH,whitelist
+anniston star,https://www.annistonstar.com,-16,HIGH,whitelist
+anthropocene magazine,http://www.anthropocenemagazine.org/,-4,VERY HIGH,whitelist
+anti-defamation league,http://www.adl.org/,-11,HIGH,whitelist
+aol,https://www.aol.com/,-14,HIGH,whitelist
+apm reports,https://www.apmreports.org/,-10,HIGH,whitelist
+aptn news,http://aptnnews.ca/aptn-national-news/,-4,HIGH,whitelist
+ara news,http://aranews.net/,-12,HIGH,whitelist
+arab news,http://www.arabnews.com/,10,HIGH,whitelist
+arizona capitol times,https://azcapitoltimes.com/,-1,HIGH,whitelist
+arizona daily star,http://tucson.com/,-13,HIGH,whitelist
+arizona daily sun,http://azdailysun.com,-7,HIGH,whitelist
+arizona republic,http://www.azcentral.com/,12,HIGH,whitelist
+arkansas democrat-gazette,http://www.arkansasonline.com/,11,HIGH,whitelist
+armstrong economics,https://www.armstrongeconomics.com,11,HIGH,whitelist
+arutz sheva (israel national news),http://www.israelnationalnews.com/,15,HIGH,whitelist
+asharq al-awsat,http://english.aawsat.com/,1,HIGH,whitelist
+asheville citizen-times,http://www.citizen-times.com/,-7,HIGH,whitelist
+asia times,http://www.atimes.com/,-4,HIGH,whitelist
+asian news international (ani),https://www.aninews.in,1,HIGH,whitelist
+associated press,https://apnews.com/,-5,VERY HIGH,whitelist
+atavist magazine,https://magazine.atavist.com/,-8,VERY HIGH,whitelist
+atlanta black star,http://atlantablackstar.com/,-15,HIGH,whitelist
+atlanta journal-constitution,http://www.ajc.com/,-13,HIGH,whitelist
+atlantic council,http://www.atlanticcouncil.org/,3,HIGH,whitelist
+atlantic media,http://www.atlanticmedia.com/,-7,HIGH,whitelist
+attn:,http://www.attn.com/,-11,HIGH,whitelist
+austin american-statesman,http://www.statesman.com/,-8,HIGH,whitelist
+autostraddle,https://www.autostraddle.com/,-23,HIGH,whitelist
+axios,https://www.axios.com/,-9,HIGH,whitelist
+backchannel,https://backchannel.com/,-8,VERY HIGH,whitelist
+backed by fact,http://backedbyfact.com/,-18,HIGH,whitelist
+ballotpedia,https://ballotpedia.org/Main_Page,-1,VERY HIGH,whitelist
+baltimore sun,http://www.baltimoresun.com/,-13,HIGH,whitelist
+bangor daily news,http://bangordailynews.com,-9,HIGH,whitelist
+baptist news global,https://baptistnews.com/,-7,HIGH,whitelist
+battle creek enquirer,https://www.battlecreekenquirer.com,-8,HIGH,whitelist
+battlefords news optimist,http://www.newsoptimist.ca,-2,HIGH,whitelist
+bay area reporter,http://www.ebar.com/,-19,HIGH,whitelist
+bbarta24,http://en.bbarta24.net/,-3,HIGH,whitelist
+bbc,http://www.bbc.com/news,-7,VERY HIGH,whitelist
+bdnews24,http://bdnews24.com/,-4,HIGH,whitelist
+beijing review,http://www.bjreview.com/,-17,HIGH,whitelist
+being liberal,https://www.themaven.net/beingliberal,-27,HIGH,whitelist
+being libertarian,https://beinglibertarian.com/,23,HIGH,whitelist
+bellingcat,https://www.bellingcat.com/,0,HIGH,whitelist
+berkeleyside,http://www.berkeleyside.com,-13,HIGH,whitelist
+berkshire eagle,http://www.berkshireeagle.com/,-11,HIGH,whitelist
+better government association,http://www.bettergov.org/,-5,HIGH,whitelist
+big think,http://bigthink.com/,-2,VERY HIGH,whitelist
+billings gazette,http://billingsgazette.com,7,HIGH,whitelist
+billmoyers.com,http://billmoyers.com/,-9,VERY HIGH,whitelist
+bipartisan policy center,https://bipartisanpolicy.org,9,HIGH,whitelist
+bismarck tribune,http://bismarcktribune.com,1,HIGH,whitelist
+bitch media,https://bitchmedia.org/,-22,HIGH,whitelist
+black agenda report,http://blackagendareport.com/,-22,HIGH,whitelist
+black lives matter,http://blacklivesmatter.com/,-21,HIGH,whitelist
+bloomberg news,https://www.bloomberg.com/,-8,HIGH,whitelist
+blue lives matter,http://bluelivesmatter.blue/,24,HIGH,whitelist
+bluestem prairie,http://www.bluestemprairie.com/,-13,HIGH,whitelist
+bno news,http://bnonews.com/,-3,HIGH,whitelist
+boing boing,http://boingboing.net/,-19,HIGH,whitelist
+boston globe,https://www.bostonglobe.com/,-11,HIGH,whitelist
+boston herald,http://www.bostonherald.com/,9,HIGH,whitelist
+boy genius report (bgr),http://bgr.com/,-10,HIGH,whitelist
+breaking defense,http://breakingdefense.com/,13,HIGH,whitelist
+breakthrough institute,https://thebreakthrough.org,8,HIGH,whitelist
+brennan center for justice,https://www.brennancenter.org/,-15,HIGH,whitelist
+bridge magazine,http://www.bridgemi.com,-2,HIGH,whitelist
+brief.news,http://www.brief.news/,-1,HIGH,whitelist
+brookings institute,https://www.brookings.edu/,-14,VERY HIGH,whitelist
+buffalo news,http://www.buffalonews.com/,-12,HIGH,whitelist
+bulletin of the atomic scientists,http://thebulletin.org/,-5,VERY HIGH,whitelist
+bullshido,http://www.bullshido.net/,-3,HIGH,whitelist
+business 2 community,http://www.business2community.com/,-2,HIGH,whitelist
+business insider,http://www.businessinsider.com/,-11,HIGH,whitelist
+bust magazine,http://bust.com/,-23,HIGH,whitelist
+bustle magazine,https://www.bustle.com/,-14,HIGH,whitelist
+c-span,http://www.c-span.org/,-1,VERY HIGH,whitelist
+calgary herald,http://calgaryherald.com/,-13,HIGH,whitelist
+calgary sun,http://www.calgarysun.com/,13,HIGH,whitelist
+california political review,http://www.capoliticalreview.com/,14,HIGH,whitelist
+calwatchdog.com,https://calwatchdog.com,-8,HIGH,whitelist
+canadaland,http://www.canadalandshow.com,-13,HIGH,whitelist
+canadian dimension,https://canadiandimension.com/,-18,HIGH,whitelist
+canadian jewish news (cjn),http://www.cjnews.com/,10,HIGH,whitelist
+canadian public affairs channel (cpac),http://www.cpac.ca/,-1,HIGH,whitelist
+canadian taxpayers federation,http://www.taxpayer.com/,15,HIGH,whitelist
+cape cod times,http://www.capecodtimes.com,-4,HIGH,whitelist
+capital gazette,http://www.capitalgazette.com/,-12,HIGH,whitelist
+capitol fax,https://capitolfax.com,-3,HIGH,whitelist
+carbonated tv,http://www.carbonated.tv/,-26,HIGH,whitelist
+caribbean life news,https://www.caribbeanlifenews.com/,-13,HIGH,whitelist
+carnegie endowment for international peace,http://carnegieendowment.org/,-5,VERY HIGH,whitelist
+carolina public press,http://carolinapublicpress.org/,-12,HIGH,whitelist
+casper star-tribune,http://trib.com,1,HIGH,whitelist
+castanet,http://www.castanet.net/,-4,HIGH,whitelist
+cato institute,http://www.cato.org/,17,HIGH,whitelist
+cbc news (canadian broadcasting),http://www.cbc.ca/news,-12,HIGH,whitelist
+cbs news,http://www.cbsnews.com/,-12,HIGH,whitelist
+cctv america,http://www.cctv-america.com/,-10,HIGH,whitelist
+center for a new american security,http://www.cnas.org/,-4,HIGH,whitelist
+center for a stateless society,https://c4ss.org/,15,HIGH,whitelist
+center for advanced defense studies,http://c4ads.org/,1,VERY HIGH,whitelist
+center for american progress,https://www.americanprogress.org/,-23,HIGH,whitelist
+center for democracy and technology,https://cdt.org,-2,HIGH,whitelist
+center for global development,http://www.cgdev.org/,-4,VERY HIGH,whitelist
+center for inquiry,http://www.centerforinquiry.net/,-1,VERY HIGH,whitelist
+center for international policy,https://www.ciponline.org/,-11,VERY HIGH,whitelist
+center for media and democracy (pr watch),http://www.prwatch.org/cmd,-21,HIGH,whitelist
+center for popular democracy,http://populardemocracy.org/,-16,HIGH,whitelist
+center for public integrity,https://www.publicintegrity.org/,-3,VERY HIGH,whitelist
+center for responsive politics (open secrets),http://www.opensecrets.org/,-1,VERY HIGH,whitelist
+center for strategic and international studies,https://www.csis.org/,-4,VERY HIGH,whitelist
+center for the national interest,http://cftni.org/,10,HIGH,whitelist
+change.org,https://www.change.org/,-21,HIGH,whitelist
+charleston gazette-mail,http://www.wvgazettemail.com/,-10,HIGH,whitelist
+charlotte observer,http://www.charlotteobserver.com/,-13,HIGH,whitelist
+check your fact,http://checkyourfact.com/,9,HIGH,whitelist
+chicago reader,http://www.chicagoreader.com/,-22,HIGH,whitelist
+chicago sun times,http://chicago.suntimes.com/,-12,HIGH,whitelist
+chicago tribune,http://www.chicagotribune.com/,9,HIGH,whitelist
+china daily,http://www.chinadaily.com.cn/,-4,HIGH,whitelist
+china global television network (cgtn),https://news.cgtn.com,-2,HIGH,whitelist
+chinook observer,http://www.chinookobserver.com,-4,HIGH,whitelist
+christian science monitor,http://www.csmonitor.com/,-4,HIGH,whitelist
+christianity today,http://www.christianitytoday.com/,7,HIGH,whitelist
+chronicles of democracy,http://www.chroniclesofdemocracy.com/,-22,HIGH,whitelist
+cincinnati enquirer,http://www.cincinnati.com/,10,HIGH,whitelist
+circa news,http://circa.com/,7,HIGH,whitelist
+citizen critics,https://citizencritics.org,-18,HIGH,whitelist
+citizen truth,https://citizentruth.org,-13,HIGH,whitelist
+citizens for responsibility and ethics in washington (crew),https://www.citizensforethics.org,-15,HIGH,whitelist
+citizens for tax justice,http://ctj.org/,-13,HIGH,whitelist
+city and state new york,http://cityandstateny.com/,-3,HIGH,whitelist
+city journal,http://www.city-journal.org/,24,HIGH,whitelist
+clean technica,https://cleantechnica.com/,-9,VERY HIGH,whitelist
+cnbc,http://www.cnbc.com/,-13,HIGH,whitelist
+colorado springs gazette,http://gazette.com/,12,HIGH,whitelist
+columbia daily herald,http://www.columbiadailyherald.com/,9,HIGH,whitelist
+columbia journalism review,http://www.cjr.org/,-11,HIGH,whitelist
+columbus dispatch,http://www.dispatch.com/,10,HIGH,whitelist
+commentary magazine,https://www.commentarymagazine.com/,24,HIGH,whitelist
+committee for a responsible federal budget,http://crfb.org/,1,VERY HIGH,whitelist
+committee for economic development,https://www.ced.org/,3,HIGH,whitelist
+committee to investigate russia,https://investigaterussia.org,-9,HIGH,whitelist
+committee to protect journalists,https://www.cpj.org/,-2,VERY HIGH,whitelist
+common cause,http://www.commoncause.org,-12,HIGH,whitelist
+common dreams,http://www.commondreams.org/,-24,HIGH,whitelist
+commonweal magazine,https://www.commonwealmagazine.org,-10,HIGH,whitelist
+commonwealth fund,http://www.commonwealthfund.org/,-11,HIGH,whitelist
+communities digital news,http://www.commdiginews.com/,12,HIGH,whitelist
+competitive enterprise institute,https://cei.org/,17,HIGH,whitelist
+concord monitor,http://www.concordmonitor.com,-4,HIGH,whitelist
+conflict news,http://www.conflict-news.com/,3,HIGH,whitelist
+congress.gov,https://www.congress.gov/,-1,VERY HIGH,whitelist
+congressional budget office (cbo),https://www.cbo.gov/,-1,VERY HIGH,whitelist
+conservative institute,https://www.conservativeinstitute.org,22,HIGH,whitelist
+consortium news,https://consortiumnews.com/,-5,HIGH,whitelist
+constitution daily,https://constitutioncenter.org,1,HIGH,whitelist
+constitution project,http://www.constitutionproject.org/,1,HIGH,whitelist
+consumer reports,https://www.consumerreports.org,-1,HIGH,whitelist
+consumerist,https://consumerist.com/,-3,HIGH,whitelist
+cook political report,http://cookpolitical.com/,-2,HIGH,whitelist
+corporate presidency,https://corporatepresidency.org,-15,HIGH,whitelist
+cosmopolitan,http://www.cosmopolitan.com/,-26,HIGH,whitelist
+council for the national interest,http://www.councilforthenationalinterest.org/,-14,HIGH,whitelist
+council on foreign relations,http://www.cfr.org/,9,HIGH,whitelist
+countable news,http://blog.countable.us/,-4,HIGH,whitelist
+countercurrents.org,http://www.countercurrents.org/,-22,HIGH,whitelist
+counterpunch,http://www.counterpunch.org/,-22,HIGH,whitelist
+courthouse news service,https://www.courthousenews.com,-1,HIGH,whitelist
+cp24,https://www.cp24.com/,-3,HIGH,whitelist
+credo action,http://credoaction.com/,-14,HIGH,whitelist
+crimeola,https://crimeola.com,-1,HIGH,whitelist
+crimethinc,https://crimethinc.com/,-22,HIGH,whitelist
+crooked media,https://crooked.com/,-23,HIGH,whitelist
+crosscut.com,http://crosscut.com/,-13,HIGH,whitelist
+csc mediagroup usa,http://www.cscmediagroupus.com/,30,HIGH,whitelist
+ctv news,http://www.ctvnews.ca/,-14,HIGH,whitelist
+current affairs magazine,https://www.currentaffairs.org/,-21,HIGH,whitelist
+curve magazine,http://www.curvemag.com,-18,HIGH,whitelist
+daily 49er,http://www.daily49er.com/,-19,HIGH,whitelist
+daily beast,http://www.thedailybeast.com/,-23,HIGH,whitelist
+daily business review,http://www.dailybusinessreview.com/,2,HIGH,whitelist
+daily dot,http://www.dailydot.com/,-19,HIGH,whitelist
+daily herald,http://www.dailyherald.com/,8,HIGH,whitelist
+daily hive,http://dailyhive.com/,-9,HIGH,whitelist
+daily journal (illinois),http://www.daily-journal.com,1,HIGH,whitelist
+daily journal (missouri),https://dailyjournalonline.com,-3,HIGH,whitelist
+daily press,http://www.dailypress.com/,7,HIGH,whitelist
+daily record,http://www.dailyrecord.com/,-4,HIGH,whitelist
+daily telegraph,http://www.telegraph.co.uk/,11,HIGH,whitelist
+dallas morning news,http://www.dallasnews.com/,12,HIGH,whitelist
+dallas voice,http://www.dallasvoice.com/,-23,HIGH,whitelist
+darien times,http://www.darientimes.com/,-2,HIGH,whitelist
+dawn,https://www.dawn.com/,-12,HIGH,whitelist
+dayton daily news,https://www.daytondailynews.com,-5,HIGH,whitelist
+dcreport.org,https://www.dcreport.org/,-17,HIGH,whitelist
+de volkskrant,https://www.volkskrant.nl/,9,HIGH,whitelist
+dead state,http://deadstate.org/,-24,HIGH,whitelist
+deadline hollywood,http://deadline.com/,-15,HIGH,whitelist
+deadspin,https://deadspin.com/,-22,HIGH,whitelist
+deathandtaxes,http://www.deathandtaxesmag.com/,-22,HIGH,whitelist
+debate post,http://debatepost.com/,19,HIGH,whitelist
+deccan chronicle,https://www.deccanchronicle.com/,14,HIGH,whitelist
+defense one,http://www.defenseone.com/,0,HIGH,whitelist
+delaware online – the news journal,http://www.delawareonline.com/,-9,HIGH,whitelist
+democracy 21,http://www.democracy21.org/,-16,HIGH,whitelist
+democracy chronicles,https://democracychronicles.org/author/tawfik/,-24,HIGH,whitelist
+democracy now,http://www.democracynow.org/,-22,HIGH,whitelist
+democrat and chronicle,http://www.democratandchronicle.com/,-11,HIGH,whitelist
+demos,http://www.demos.org,-11,HIGH,whitelist
+denver post,http://www.denverpost.com/,-14,HIGH,whitelist
+deseret news,http://www.deseretnews.com/,15,HIGH,whitelist
+desert sun,http://www.desertsun.com/,6,HIGH,whitelist
+desmog,https://www.desmogblog.com/,-18,HIGH,whitelist
+detroit free press,http://www.freep.com/,-12,HIGH,whitelist
+detroit news,http://www.detroitnews.com/,12,HIGH,whitelist
+die hard democrat,http://dieharddemocrat.com/,-26,HIGH,whitelist
+die zeit,http://www.zeit.de/english/index,-9,HIGH,whitelist
+differencebetween.net,http://www.differencebetween.net,0,VERY HIGH,whitelist
+digg,http://digg.com/,-9,HIGH,whitelist
+digital journal,http://www.digitaljournal.com,-2,HIGH,whitelist
+dissent magazine,https://www.dissentmagazine.org/,-23,HIGH,whitelist
+diversityinc,http://www.diversityinc.com,-12,HIGH,whitelist
+doctors without borders,http://www.doctorswithoutborders.org,-1,HIGH,whitelist
+downsizing the federal government,https://www.downsizinggovernment.org,15,HIGH,whitelist
+dpa german press agency,http://www.dpa-international.com/,-3,HIGH,whitelist
+duluth news tribune,https://www.duluthnewstribune.com,9,HIGH,whitelist
+dutch daily news,http://www.dutchdailynews.com/,-13,HIGH,whitelist
+dw news,http://www.dw.com/en/top-stories/s-9097,-14,HIGH,whitelist
+eagle tribune,http://www.eagletribune.com/,1,HIGH,whitelist
+earth institute,http://earth.columbia.edu/sections/view/9,-2,HIGH,whitelist
+earthjustice,https://earthjustice.org,-17,HIGH,whitelist
+east bay times,http://www.eastbaytimes.com/,-9,HIGH,whitelist
+economic policy institute,http://www.epi.org/,-13,HIGH,whitelist
+economicpolicyjournal.com,http://www.economicpolicyjournal.com,24,HIGH,whitelist
+economics.help,https://www.economicshelp.org,-13,HIGH,whitelist
+edmonton journal,http://edmontonjournal.com/,-10,HIGH,whitelist
+edmonton sun,http://www.edmontonsun.com/,15,HIGH,whitelist
+egbertowillies,https://egbertowillies.com/,-28,HIGH,whitelist
+ej insight (eji),http://www.ejinsight.com/,-5,HIGH,whitelist
+el pais,http://elpais.com/elpais/inenglish.html,-13,HIGH,whitelist
+el paso times,http://www.elpasotimes.com/,-8,HIGH,whitelist
+electoral-vote.com,https://www.electoral-vote.com,-19,HIGH,whitelist
+electronic frontier foundation,https://www.eff.org/,-8,HIGH,whitelist
+electronic intifada,https://electronicintifada.net/,-25,HIGH,whitelist
+elisabeth parker,http://elisabethparker.com/,-26,HIGH,whitelist
+elko daily free press,https://elkodaily.com/,1,HIGH,whitelist
+emirates 24/7,http://www.emirates247.com/,-11,HIGH,whitelist
+empty wheel,https://www.emptywheel.net/,-15,HIGH,whitelist
+engadget,https://www.engadget.com/,-12,HIGH,whitelist
+erie times-news,http://www.goerie.com,-4,HIGH,whitelist
+err news (estonia public broadcasting),http://news.err.ee,1,HIGH,whitelist
+esquire magazine,http://www.esquire.com/,-22,HIGH,whitelist
+ethics and public policy center (eppc),https://eppc.org/,15,HIGH,whitelist
+eu observer,https://euobserver.com/,-11,HIGH,whitelist
+eurasia group,http://www.eurasiagroup.net/,-3,HIGH,whitelist
+eurasia review,http://www.eurasiareview.com,-4,HIGH,whitelist
+euronews,http://www.euronews.com/,-4,HIGH,whitelist
+every crs report,https://www.everycrsreport.com/,0,VERY HIGH,whitelist
+everyday feminism,http://everydayfeminism.com/,-21,HIGH,whitelist
+evonomics,http://evonomics.com/,-23,HIGH,whitelist
+exposing the truth,https://www.exposingtruth.com/,-10,HIGH,whitelist
+fact / myth,http://factmyth.com/,-9,HIGH,whitelist
+factbox.tv,http://factbox.tv/,-15,HIGH,whitelist
+factcheck,http://www.factcheck.org/,-1,VERY HIGH,whitelist
+factscan,http://factscan.ca/,-1,VERY HIGH,whitelist
+factwire news agency,https://www.factwire.org/english,-1,HIGH,whitelist
+fair observer,https://www.fairobserver.com,-3,HIGH,whitelist
+fairness & accuracy in reporting (fair),http://fair.org/,-14,HIGH,whitelist
+fairvote,http://www.fairvote.org/,-9,HIGH,whitelist
+faith family america,http://www.faithfamilyamerica.com,13,HIGH,whitelist
+far left watch,https://farleftwatch.com,29,HIGH,whitelist
+fast company magazine,https://www.fastcompany.com/,-11,HIGH,whitelist
+federal news radio,https://federalnewsradio.com,-1,HIGH,whitelist
+federal times,http://www.federaltimes.com/,0,HIGH,whitelist
+feminist current,http://www.feministcurrent.com,-19,HIGH,whitelist
+feminist frequency,https://feministfrequency.com/,-8,HIGH,whitelist
+feministing,http://feministing.com/,-25,HIGH,whitelist
+fifth estate,https://www.fifthestate.org/,-22,HIGH,whitelist
+fight for the future,https://www.fightforthefuture.org,-14,HIGH,whitelist
+filming cops,http://filmingcops.com/,-24,HIGH,whitelist
+financial express,http://www.financialexpress.com/,2,HIGH,whitelist
+financial post,http://www.financialpost.com/,10,HIGH,whitelist
+financial times,https://www.ft.com/,1,HIGH,whitelist
+first draft news,https://firstdraftnews.org/,-3,HIGH,whitelist
+first post,http://www.firstpost.com/,-22,HIGH,whitelist
+fitsnews,https://www.fitsnews.com/,13,HIGH,whitelist
+fivethirtyeight,https://fivethirtyeight.com/,-8,HIGH,whitelist
+florida times-union,http://jacksonville.com/,10,HIGH,whitelist
+foreign affairs,https://www.foreignaffairs.com/,5,HIGH,whitelist
+foreign policy in focus,http://fpif.org/,-10,HIGH,whitelist
+foreign policy initiative,http://www.foreignpolicyi.org/,12,HIGH,whitelist
+foreign policy research institute,http://www.fpri.org/,10,VERY HIGH,whitelist
+foreign policy,http://foreignpolicy.com/,3,HIGH,whitelist
+fort bend herald,http://www.fbherald.com/,13,HIGH,whitelist
+fort worth star-telegram,http://www.star-telegram.com/,10,HIGH,whitelist
+fort worth weekly,https://www.fwweekly.com/,-14,HIGH,whitelist
+fortnightly review,http://fortnightlyreview.co.uk/,15,HIGH,whitelist
+fortune magazine,http://fortune.com/,8,HIGH,whitelist
+forward progressives,http://www.forwardprogressives.com/,-26,HIGH,whitelist
+foundation for defense of democracies,http://www.defenddemocracy.org,21,HIGH,whitelist
+foundation for economic education,https://fee.org/,12,HIGH,whitelist
+france24,http://www.france24.com/en/,-13,HIGH,whitelist
+fraser institute,https://www.fraserinstitute.org/,13,HIGH,whitelist
+freakonomics radio,http://freakonomics.com/,-10,HIGH,whitelist
+free press,http://freepress.org/,-27,HIGH,whitelist
+free rein news,http://frnewsreport.com,-28,HIGH,whitelist
+free wheel media,https://freewheelus.com,-12,HIGH,whitelist
+freedom from religion foundation (ffrf),https://ffrf.org/,-1,HIGH,whitelist
+freedom house,https://freedomhouse.org/,10,HIGH,whitelist
+freedom news and journal,https://freedomnews.org.uk/,-27,HIGH,whitelist
+fresno bee,http://www.fresnobee.com/,-11,HIGH,whitelist
+fstv (freespeech.org),https://www.freespeech.org/,-19,HIGH,whitelist
+full fact (uk),https://fullfact.org/,-5,VERY HIGH,whitelist
+gallup,http://www.gallup.com/home.aspx,-2,VERY HIGH,whitelist
+gay star news,https://www.gaystarnews.com/,-15,HIGH,whitelist
+gbtimes,https://gbtimes.com,-2,HIGH,whitelist
+gears of biz,http://gearsofbiz.com/,-4,HIGH,whitelist
+geopolitics alert,http://geopoliticsalert.com,-13,HIGH,whitelist
+gizmodo,http://gizmodo.com/,-20,HIGH,whitelist
+glamour magazine,http://www.glamour.com/,-14,HIGH,whitelist
+global citizen,https://www.globalcitizen.org/en/,-11,HIGH,whitelist
+global integrity,http://www.globalintegrity.org/,1,HIGH,whitelist
+global news,http://globalnews.ca/,-8,HIGH,whitelist
+global post,http://www.pri.org/programs/globalpost,-10,HIGH,whitelist
+global risk insights (gri),http://globalriskinsights.com,-7,HIGH,whitelist
+global slavery index,https://www.globalslaveryindex.org,-1,VERY HIGH,whitelist
+global times (china),http://www.globaltimes.cn/,-10,HIGH,whitelist
+global voices,https://globalvoices.org/,-18,HIGH,whitelist
+globe gazette (iowa),http://globegazette.com,-3,HIGH,whitelist
+good magazine,https://www.good.is/,-21,HIGH,whitelist
+goodnewsnetwork,http://www.goodnewsnetwork.org/,1,HIGH,whitelist
+governing magazine,http://www.governing.com/,-8,HIGH,whitelist
+government executive,http://www.govexec.com/,-4,HIGH,whitelist
+govtrack,https://www.govtrack.us/,0,VERY HIGH,whitelist
+gq magazine,http://www.gq.com/,-19,HIGH,whitelist
+grand rapids press,http://www.mlive.com/grand-rapids/#/0,13,HIGH,whitelist
+grasping reality with both hands: bradford delong,http://www.bradford-delong.com/,-21,HIGH,whitelist
+greensboro news and record,http://www.greensboro.com/,-12,HIGH,whitelist
+greentech media,https://www.greentechmedia.com/,-12,HIGH,whitelist
+greenville gazette,http://www.greenvillegazette.com/,-26,HIGH,whitelist
+grist,http://grist.org/,-14,HIGH,whitelist
+group of thirty,http://group30.org/,7,HIGH,whitelist
+guardian liberty voice,http://guardianlv.com/,-24,HIGH,whitelist
+guardians of democracy,https://theguardiansofdemocracy.com/,-24,HIGH,whitelist
+gulf news,http://gulfnews.com/,10,HIGH,whitelist
+guns.com,http://www.guns.com,10,HIGH,whitelist
+haaretz,http://www.haaretz.com/,-16,HIGH,whitelist
+harper’s magazine,http://harpers.org/,-8,HIGH,whitelist
+harvard business review,https://hbr.org,-3,HIGH,whitelist
+harvard gazette,http://news.harvard.edu/gazette/,-4,HIGH,whitelist
+harvard political review,http://harvardpolitics.com/,-4,HIGH,whitelist
+hastings tribune,http://www.hastingstribune.com,-2,HIGH,whitelist
+healthcare finance news,http://www.healthcarefinancenews.com/,-1,HIGH,whitelist
+healthyway,https://www.healthyway.com,-11,HIGH,whitelist
+heavy,http://heavy.com/,-13,HIGH,whitelist
+helsinki times,http://www.helsinkitimes.fi/,-15,HIGH,whitelist
+herald & review (illinois),https://herald-review.com,2,HIGH,whitelist
+herald-sun,http://www.heraldsun.com.au/,11,HIGH,whitelist
+heterodox academy,https://heterodoxacademy.org,8,HIGH,whitelist
+high country news,https://www.hcn.org,-13,HIGH,whitelist
+high point enterprise,http://www.hpenews.com/,10,HIGH,whitelist
+highline,http://highline.huffingtonpost.com,-12,HIGH,whitelist
+hindustan times,http://www.hindustantimes.com/,-8,HIGH,whitelist
+history news network,http://historynewsnetwork.org/,-12,HIGH,whitelist
+hoax slayer,http://www.hoax-slayer.com/,0,VERY HIGH,whitelist
+hollywood reporter,http://www.hollywoodreporter.com/,-15,HIGH,whitelist
+homeland security news wire,http://www.homelandsecuritynewswire.com,1,HIGH,whitelist
+honest reporting,http://honestreporting.com/,10,HIGH,whitelist
+honolulu star-advertiser,http://www.staradvertiser.com/,-11,HIGH,whitelist
+hot air,http://hotair.com/,26,HIGH,whitelist
+houston chronicle,https://www.houstonchronicle.com/,-14,HIGH,whitelist
+hudson institute,http://www.hudson.org/,22,HIGH,whitelist
+huffington post (huffpost),http://www.huffingtonpost.com/,-21,HIGH,whitelist
+human rights campaign (hrc),https://www.hrc.org,-24,HIGH,whitelist
+human rights watch,https://www.hrw.org/,-8,HIGH,whitelist
+humanium,https://www.humanium.org,-13,HIGH,whitelist
+i24 news,http://www.i24news.tv/,1,HIGH,whitelist
+ice news,http://www.icenews.is/,-13,HIGH,whitelist
+icitizen,https://icitizen.com,-3,HIGH,whitelist
+idaho statesman,http://www.idahostatesman.com,-3,HIGH,whitelist
+if americans knew,http://ifamericaknew.org/,-15,HIGH,whitelist
+ihs janes 360,http://www.janes.com/,1,HIGH,whitelist
+illinois policy institute,https://www.illinoispolicy.org/,20,HIGH,whitelist
+imediaethics,https://www.imediaethics.org,-4,HIGH,whitelist
+in defence of marxism,https://www.marxist.com/,-27,HIGH,whitelist
+in homeland security,https://inhomelandsecurity.com,9,HIGH,whitelist
+in these times,http://inthesetimes.com/,-22,HIGH,whitelist
+independent australia,https://independentaustralia.net/,-15,HIGH,whitelist
+independent journal review,https://ijr.com/,26,HIGH,whitelist
+independent record (montana),http://helenair.com,1,HIGH,whitelist
+independent sentinel,http://www.independentsentinel.com/,29,HIGH,whitelist
+independent voter network (ivn),https://ivn.us/,-4,HIGH,whitelist
+india today,http://indiatoday.intoday.in/,-4,HIGH,whitelist
+indianapolis star,http://www.indystar.com/,-10,HIGH,whitelist
+inequality media,https://www.inequalitymedia.org/,-19,HIGH,whitelist
+inews,https://inews.co.uk/,-13,HIGH,whitelist
+informed comment,https://www.juancole.com,-19,HIGH,whitelist
+inside higher ed,https://www.insidehighered.com/,-7,HIGH,whitelist
+inside philanthropy,https://www.insidephilanthropy.com,-13,HIGH,whitelist
+insideclimate news,https://insideclimatenews.org/,-7,HIGH,whitelist
+insidesources,http://www.insidesources.com,12,HIGH,whitelist
+institute for humane studies,https://theihs.org/,7,HIGH,whitelist
+institute for middle east understanding (imeu),https://imeu.org,-12,HIGH,whitelist
+institute for policy studies,http://www.ips-dc.org,-28,HIGH,whitelist
+institute for women’s policy research (iwpr),https://iwpr.org,-4,HIGH,whitelist
+institute on taxation and economic policy (itep),https://itep.org/,-11,HIGH,whitelist
+inter press service (ips),http://www.ips.org,-16,HIGH,whitelist
+international center for research on women,http://www.icrw.org/,-11,HIGH,whitelist
+international consortium of investigative journalists,https://www.icij.org/,-4,VERY HIGH,whitelist
+international crisis group,https://www.crisisgroup.org/,-10,HIGH,whitelist
+international energy agency (iea),https://www.iea.org/,-5,HIGH,whitelist
+international organization,http://journals.cambridge.org/action/displayIssue?jid=INO&tab=currentissue,1,VERY HIGH,whitelist
+international press institute,http://www.freemedia.at/,-1,VERY HIGH,whitelist
+international rescue committee (irc),https://www.rescue.org/,-3,HIGH,whitelist
+inverse,https://www.inverse.com,-12,HIGH,whitelist
+investigative reporters and editors,https://www.ire.org/,-1,VERY HIGH,whitelist
+investopedia,http://www.investopedia.com/,-1,HIGH,whitelist
+iowa starting line,https://iowastartingline.com,-22,HIGH,whitelist
+ipolitics,http://ipolitics.ca/,-9,HIGH,whitelist
+irin news,http://www.irinnews.org/,-10,HIGH,whitelist
+irish independent,http://www.independent.ie/,11,HIGH,whitelist
+israel hayom,http://www.israelhayom.com/site/today.php,13,HIGH,whitelist
+itv news,http://www.itv.com/news/,8,HIGH,whitelist
+jackson sun,https://www.jacksonsun.com,2,HIGH,whitelist
+jacobin,https://www.jacobinmag.com/,-22,HIGH,whitelist
+japan times,https://www.japantimes.co.jp/,1,HIGH,whitelist
+japan today,https://www.japantoday.com/,7,HIGH,whitelist
+jewish news syndicate (jns),https://www.jns.org,13,HIGH,whitelist
+jewish policy center,https://www.jewishpolicycenter.org/,20,HIGH,whitelist
+jewish telegraphic agency (jta),http://www.jta.org,1,HIGH,whitelist
+jihadica,http://www.jihadica.com/,-9,HIGH,whitelist
+joint center for political and economic studies,http://jointcenter.org/,-13,HIGH,whitelist
+journal gazette & times-courier,https://www.opensecrets.org/orgs/totals.php?id=D000052990&cycle=2014,-3,HIGH,whitelist
+journal of politics and society,http://www.helvidius.org/,-10,VERY HIGH,whitelist
+jstor daily,http://daily.jstor.org/,-1,VERY HIGH,whitelist
+just facts daily,http://www.justfactsdaily.com/,19,HIGH,whitelist
+just facts,http://www.justfacts.com/,12,HIGH,whitelist
+just security,https://www.justsecurity.org/,-3,HIGH,whitelist
+kaiser family foundation,http://kff.org/,-4,HIGH,whitelist
+kansas city star,http://www.kansascity.com/,-12,HIGH,whitelist
+keep and bear,https://keepandbear.com,28,HIGH,whitelist
+kmov,http://www.kmov.com/,-9,HIGH,whitelist
+knight foundation,http://www.knightfoundation.org/,-7,HIGH,whitelist
+know your meme,http://knowyourmeme.com/,-1,HIGH,whitelist
+knowhere,https://knowherenews.com,-1,HIGH,whitelist
+knoxville news sentinel,https://www.knoxnews.com,-12,HIGH,whitelist
+koco news 5,http://www.koco.com/,-7,HIGH,whitelist
+kotaku,https://kotaku.com,-13,HIGH,whitelist
+kuow npr,http://kuow.org/,-10,HIGH,whitelist
+kutv salt lake city,http://kutv.com/,10,HIGH,whitelist
+la presse,http://www.lapresse.ca/,-16,HIGH,whitelist
+la times (los angeles times),http://www.latimes.com/,-14,HIGH,whitelist
+las vegas review-journal,http://www.reviewjournal.com/,12,HIGH,whitelist
+latin times,http://www.latintimes.com/,-8,HIGH,whitelist
+lavender magazine,http://www.lavendermagazine.com/,-22,HIGH,whitelist
+law newz,http://lawnewz.com/,-11,HIGH,whitelist
+lawfare blog,https://www.lawfareblog.com/,-13,HIGH,whitelist
+le devoir,http://www.ledevoir.com/,1,HIGH,whitelist
+lead stories,https://leadstories.com/,-2,VERY HIGH,whitelist
+learn liberty,http://www.learnliberty.org/,8,HIGH,whitelist
+left action,http://leftaction.com/,-25,HIGH,whitelist
+left foot forward,https://leftfootforward.org/,-23,HIGH,whitelist
+left justified,http://www.leftjustified.com/,-9,HIGH,whitelist
+left voice,http://www.leftvoice.org,-22,HIGH,whitelist
+left wing nation,http://leftwingnation.org/,-28,HIGH,whitelist
+lethbridge herald,http://lethbridgeherald.com/,-12,HIGH,whitelist
+lexington herald leader,http://www.kentucky.com/,-10,HIGH,whitelist
+lexington institute,http://lexingtoninstitute.org/,8,HIGH,whitelist
+lgbtq nation,http://www.lgbtqnation.com/,-18,HIGH,whitelist
+libcom.org,http://libcom.org,-28,HIGH,whitelist
+liberal mountain,http://www.liberalmountain.com/,-16,HIGH,whitelist
+liberation news,https://www.liberationnews.org/,-22,HIGH,whitelist
+liberty viral,https://libertyviral.com/,13,HIGH,whitelist
+lifehacker,https://lifehacker.com/,-10,HIGH,whitelist
+lima charlie news,https://limacharlienews.com,2,HIGH,whitelist
+lincoln journal star,http://journalstar.com/,-2,HIGH,whitelist
+listverse,http://listverse.com/,-3,HIGH,whitelist
+liveleak,https://www.liveleak.com/,-12,HIGH,whitelist
+lompoc record,http://lompocrecord.com/,1,HIGH,whitelist
+london evening standard,http://www.standard.co.uk/,15,HIGH,whitelist
+longview news-journal,https://www.news-journal.com,2,HIGH,whitelist
+los angeles daily news,http://www.dailynews.com/,6,HIGH,whitelist
+mackinac center for public policy,http://www.mackinac.org/,10,HIGH,whitelist
+maclean’s magazine,http://www.macleans.ca/,-11,HIGH,whitelist
+maine beacon,http://mainebeacon.com/,-9,HIGH,whitelist
+makeuseof,https://www.makeuseof.com/,-2,HIGH,whitelist
+manhattan institute for policy research,http://www.manhattan-institute.org/,10,HIGH,whitelist
+maplight,http://maplight.org/,-2,VERY HIGH,whitelist
+marketwatch,http://www.marketwatch.com/,0,HIGH,whitelist
+mashable,http://mashable.com/,-20,HIGH,whitelist
+mcclatchydc,http://www.mcclatchydc.com/,-4,HIGH,whitelist
+media matters,http://mediamatters.org/,-24,HIGH,whitelist
+mediafile,http://www.mediafiledc.com,-12,HIGH,whitelist
+mediaite,http://www.mediaite.com/,-23,HIGH,whitelist
+mediashift,http://mediashift.org/,-4,HIGH,whitelist
+meduza,https://meduza.io/en,-19,HIGH,whitelist
+mental floss,http://mentalfloss.com/,-2,HIGH,whitelist
+mercatornet,https://www.mercatornet.com,28,HIGH,whitelist
+mercopress,http://en.mercopress.com/,-1,HIGH,whitelist
+merion west,http://merionwest.com/,5,HIGH,whitelist
+merry jane,https://www.merryjane.com/,-20,HIGH,whitelist
+metabunk,https://www.metabunk.org/,-3,HIGH,whitelist
+metro uk,http://metro.co.uk/,-14,HIGH,whitelist
+metro,http://www.metro.us/,-10,HIGH,whitelist
+mexico daily news,http://mexiconewsdaily.com/,-13,HIGH,whitelist
+miami herald,http://www.miamiherald.com/,-10,HIGH,whitelist
+miami new times,http://www.miaminewtimes.com/,-23,HIGH,whitelist
+mic,https://mic.com/,-14,HIGH,whitelist
+migration policy institute,https://www.migrationpolicy.org,-10,HIGH,whitelist
+military times,http://www.militarytimes.com/,8,HIGH,whitelist
+military.com,http://www.military.com/,3,HIGH,whitelist
+milwaukee journal-sentinel,http://www.jsonline.com/,-9,HIGH,whitelist
+minneapolis star tribune,http://www.startribune.com/,-9,HIGH,whitelist
+minnesota public radio (mpr),https://www.mprnews.org/,-11,HIGH,whitelist
+minnpost,https://www.minnpost.com,-11,HIGH,whitelist
+missoulian,http://missoulian.com/,-3,HIGH,whitelist
+mlive (michigan – booth newspapers),http://www.mlive.com/,-1,HIGH,whitelist
+molad the center for the renewal of israeli democracy,http://www.molad.org/en/,-20,HIGH,whitelist
+mondoweiss,http://mondoweiss.net/,-18,HIGH,whitelist
+mongabay,https://news.mongabay.com,-12,HIGH,whitelist
+montana standard,http://mtstandard.com,-3,HIGH,whitelist
+monthly review,http://monthlyreview.org/,-13,HIGH,whitelist
+montreal gazette,http://montrealgazette.com/,-12,HIGH,whitelist
+morning consult,https://morningconsult.com/,-13,HIGH,whitelist
+moscow times,https://themoscowtimes.com/,-14,HIGH,whitelist
+mother jones,http://www.motherjones.com/,-23,HIGH,whitelist
+mother nature network,https://www.mnn.com,-15,HIGH,whitelist
+mountain democrat,https://www.mtdemocrat.com,-8,HIGH,whitelist
+ms. (magazine),http://www.msmagazine.com/,-20,HIGH,whitelist
+msn.com,http://www.msn.com/,-9,HIGH,whitelist
+muncie voice,http://www.muncievoice.com/,-15,HIGH,whitelist
+mwc news – media with conscience,http://mwcnews.net/,-12,HIGH,whitelist
+mynorthwest,http://mynorthwest.com,12,HIGH,whitelist
+naked capitalism,http://www.nakedcapitalism.com/,-12,HIGH,whitelist
+napa valley register,http://napavalleyregister.com,2,HIGH,whitelist
+national affairs magazine,https://www.nationalaffairs.com,9,HIGH,whitelist
+national association for the advancement of colored people (naacp),http://www.naacp.org/,-17,HIGH,whitelist
+national bureau of economic research (nber),http://www.nber.org/,1,HIGH,whitelist
+national center for transgender equality (ncte),https://transequality.org,-15,HIGH,whitelist
+national institute on money in state politics,https://www.followthemoney.org/,-4,HIGH,whitelist
+national interest,http://nationalinterest.org/,6,HIGH,whitelist
+national journal,https://www.nationaljournal.com/,-4,HIGH,whitelist
+national monitor,http://natmonitor.com/,-15,HIGH,whitelist
+national newswatch,http://www.nationalnewswatch.com/,-8,HIGH,whitelist
+national observer (canada),http://www.nationalobserver.com/,-15,HIGH,whitelist
+national post,http://www.nationalpost.com/index.html,13,HIGH,whitelist
+national youth rights association,http://www.youthrights.org/,-8,HIGH,whitelist
+nationmaster,http://www.nationmaster.com,-1,VERY HIGH,whitelist
+natural resource governance institute,http://www.resourcegovernance.org/,-11,HIGH,whitelist
+natural resources defense council,https://www.nrdc.org/,-14,HIGH,whitelist
+nature conservancy,https://www.nature.org,-9,HIGH,whitelist
+nbc news,http://www.nbcnews.com/,-14,HIGH,whitelist
+nc policy watch,http://www.ncpolicywatch.com/,-14,HIGH,whitelist
+ndtv,https://www.ndtv.com/,-12,HIGH,whitelist
+need 2 know,http://theneed2know.com/,-5,HIGH,whitelist
+netherlands radio and television association (nos),https://nos.nl,7,HIGH,whitelist
+new america,https://www.newamerica.org/,-3,HIGH,whitelist
+new bern sun journal,http://www.newbernsj.com/,-4,HIGH,whitelist
+new england cable news (necn),http://www.necn.com/,-9,HIGH,whitelist
+new europe,https://www.neweurope.eu/,-13,HIGH,whitelist
+new internationalist,https://newint.org/,-22,HIGH,whitelist
+new left review,https://newleftreview.org/,-14,HIGH,whitelist
+new matilda,https://newmatilda.com/,-13,HIGH,whitelist
+new moderate,https://newmoderate.com/,-11,HIGH,whitelist
+new politics magazine,http://newpol.org/,-19,HIGH,whitelist
+new republic,https://newrepublic.com/,-20,HIGH,whitelist
+new revolution now,http://www.newrevolutionnow.org/,22,HIGH,whitelist
+new statesman,http://www.newstatesman.com/,-22,HIGH,whitelist
+new york magazine,http://nymag.com/,-22,HIGH,whitelist
+new york observer,http://observer.com/,20,HIGH,whitelist
+new york times,https://www.nytimes.com/,-12,HIGH,whitelist
+new yorker,http://www.newyorker.com/,-23,HIGH,whitelist
+new zealand herald,http://www.nzherald.co.nz,1,HIGH,whitelist
+news and guts,https://www.newsandgutsmedia.com/,-13,HIGH,whitelist
+news channel 4 (kfor.com),http://kfor.com/,-8,HIGH,whitelist
+news deeply,https://www.newsdeeply.com,-16,HIGH,whitelist
+news lookup,http://www.newslookup.com,-1,HIGH,whitelist
+news rescue,http://newsrescue.com/,11,HIGH,whitelist
+news-gazette,http://www.news-gazette.com/,8,HIGH,whitelist
+news.com.au,http://www.news.com.au/,-12,HIGH,whitelist
+news24 (south africa),http://www.news24.com/,2,HIGH,whitelist
+newsday,http://www.newsday.com/,-15,HIGH,whitelist
+newsela,https://newsela.com/,-3,HIGH,whitelist
+newser,http://www.newser.com,-9,HIGH,whitelist
+newsone,https://newsone.com/,-16,HIGH,whitelist
+newsy,http://www.newsy.com/,-10,HIGH,whitelist
+next avenue,http://www.nextavenue.org/,-5,HIGH,whitelist
+nextgov,http://www.nextgov.com/,-2,HIGH,whitelist
+nhk world,https://www3.nhk.or.jp/nhkworld/,-2,HIGH,whitelist
+niskanen center,https://niskanencenter.org,-5,HIGH,whitelist
+nk news,https://www.nknews.org,-4,HIGH,whitelist
+no labels,https://www.nolabels.org/,-3,HIGH,whitelist
+noozhawk,https://www.noozhawk.com/,-4,HIGH,whitelist
+north99,https://north99.org/,-24,HIGH,whitelist
+northwest indiana times,http://www.nwitimes.com,2,HIGH,whitelist
+novinite,http://www.novinite.com/,-4,HIGH,whitelist
+now magazine,https://nowtoronto.com/,-18,HIGH,whitelist
+npr (national public radio),http://www.npr.org/sections/news/,-9,VERY HIGH,whitelist
+ntd.tv (new tang dynasty),http://www.ntd.tv/,14,HIGH,whitelist
+oc weekly,http://www.ocweekly.com/,-12,HIGH,whitelist
+odessa american,http://www.oaoa.com,10,HIGH,whitelist
+oil and water don’t mix,http://www.oilandwaterdontmix.org/,-8,HIGH,whitelist
+oil price,http://oilprice.com/,8,HIGH,whitelist
+omaha world-herald,http://www.omaha.com/,10,HIGH,whitelist
+ontario proud,https://www.ontarioproud.ca,24,HIGH,whitelist
+open the government,http://www.openthegovernment.org/,-3,HIGH,whitelist
+opendemocracy,https://www.opendemocracy.net/,-15,HIGH,whitelist
+opposing views,http://www.opposingviews.com/,-14,HIGH,whitelist
+orange county register,http://www.ocregister.com/,11,HIGH,whitelist
+oregonian,http://www.oregonlive.com/#/0,12,HIGH,whitelist
+orlando sentinel,http://www.orlandosentinel.com/,10,HIGH,whitelist
+ottawa citizen,http://ottawacitizen.com/,10,HIGH,whitelist
+our voice ny,https://ourvoiceny.com,-25,HIGH,whitelist
+our world in data,https://ourworldindata.org,-8,HIGH,whitelist
+outside the beltway,http://www.outsidethebeltway.com/,-11,HIGH,whitelist
+oyez project,https://www.oyez.org,-1,VERY HIGH,whitelist
+ozy media,http://www.ozy.com/,-13,HIGH,whitelist
+pacific daily news,https://www.guampdn.com/,-3,HIGH,whitelist
+pacific research institute,http://www.pacificresearch.org/home/,9,HIGH,whitelist
+pacific standard magazine,https://psmag.com/,-10,HIGH,whitelist
+panam post,https://panampost.com/,-12,HIGH,whitelist
+parallax news (pxw),http://parallax.news/,0,HIGH,whitelist
+paste magazine,https://www.pastemagazine.com/,-21,HIGH,whitelist
+patch,https://patch.com/,-2,HIGH,whitelist
+patriotic millionaires,https://patrioticmillionaires.org,-12,HIGH,whitelist
+pbs news hour,http://www.pbs.org/newshour/,-10,HIGH,whitelist
+peacock panache,http://www.peacock-panache.com,-27,HIGH,whitelist
+peninsula daily news,http://www.peninsuladailynews.com/,8,HIGH,whitelist
+pensacola news journal,https://www.pnj.com,-4,HIGH,whitelist
+people for the american way (pfaw),http://www.pfaw.org,-19,HIGH,whitelist
+people magazine,http://people.com/politics/,-20,HIGH,whitelist
+peterson foundation,http://www.pgpf.org/,1,HIGH,whitelist
+peterson institute for international economics,https://piie.com/,2,HIGH,whitelist
+pew research,http://www.pewresearch.org/,-1,VERY HIGH,whitelist
+philadelphia inquirer,http://www.philly.com/inquirer/,-11,HIGH,whitelist
+philadelphia tribune,http://www.phillytrib.com/,-11,HIGH,whitelist
+philippine daily inquirer,https://www.inquirer.net/,-8,HIGH,whitelist
+phoenix new times,http://www.phoenixnewtimes.com/,-16,HIGH,whitelist
+pinac,https://photographyisnotacrime.com/,-18,HIGH,whitelist
+pink news,http://www.pinknews.co.uk/home/,-20,HIGH,whitelist
+pittsburgh post-gazette,http://www.post-gazette.com/,7,HIGH,whitelist
+pittsburgh tribune review,http://triblive.com/,10,HIGH,whitelist
+places journal,https://placesjournal.org/,-3,VERY HIGH,whitelist
+pluralist,https://www.pluralist.com,-11,HIGH,whitelist
+policy review,http://www.hoover.org/publications/policy-review,22,HIGH,whitelist
+policyed,https://www.policyed.org/,16,HIGH,whitelist
+political critique,http://politicalcritique.org/,-13,HIGH,whitelist
+political storm,http://www.politicalstorm.com/,5,HIGH,whitelist
+politico,http://www.politico.com/,-15,HIGH,whitelist
+politics that work,http://politicsthatwork.com/,-15,HIGH,whitelist
+politicususa,http://www.politicususa.com/,-23,HIGH,whitelist
+politifact,http://www.politifact.com/,-4,HIGH,whitelist
+politisite,http://politi.site,24,HIGH,whitelist
+polygraph.info,http://www.polygraph.info/,-2,VERY HIGH,whitelist
+population connection,http://www.populationconnection.org,-15,HIGH,whitelist
+portland press-herald,http://www.pressherald.com/,-7,HIGH,whitelist
+positive news,https://www.positive.news,-12,HIGH,whitelist
+post-bulletin,http://www.postbulletin.com/,6,HIGH,whitelist
+power line,http://www.powerlineblog.com/,24,HIGH,whitelist
+poynter institute,http://www.poynter.org/,-4,VERY HIGH,whitelist
+pr newswire,http://prnewswire.mediaroom.com/,-1,HIGH,whitelist
+press progress,https://www.pressprogress.ca/,-20,HIGH,whitelist
+procon.org,https://www.procon.org/,-2,HIGH,whitelist
+progressive army,http://progressivearmy.com,-22,HIGH,whitelist
+project censored,http://projectcensored.org/,-19,HIGH,whitelist
+project on government oversight,http://pogo.org/,-4,VERY HIGH,whitelist
+project syndicate,https://www.project-syndicate.org/,-2,HIGH,whitelist
+propublica,https://www.propublica.org/,-13,HIGH,whitelist
+prospect magazine,http://www.prospectmagazine.co.uk/,-11,HIGH,whitelist
+public citizen,https://www.citizen.org/,-13,HIGH,whitelist
+public policy polling (ppp),http://www.publicpolicypolling.com/,0,VERY HIGH,whitelist
+public radio international (pri),http://www.pri.org/,-13,HIGH,whitelist
+public religion research institute (prri),http://www.prri.org/,2,VERY HIGH,whitelist
+punchingbag post,http://punchingbagpost.com/,13,HIGH,whitelist
+putintrump.org,http://putintrump.org/,-20,HIGH,whitelist
+quad city times,http://qctimes.com/,-4,HIGH,whitelist
+quartz,http://qz.com/,-11,HIGH,whitelist
+queerty,https://www.queerty.com,-20,HIGH,whitelist
+quillette,http://quillette.com/,11,HIGH,whitelist
+r street institute,http://www.rstreet.org/,10,HIGH,whitelist
+rabble.ca,http://rabble.ca/,-25,HIGH,whitelist
+radio free asia,http://www.rfa.org/english/,-7,HIGH,whitelist
+radio free europe / radio liberty,https://www.rferl.org,-2,HIGH,whitelist
+raleigh news and observer,http://www.newsobserver.com/,-9,HIGH,whitelist
+rand corporation,https://www.rand.org,-4,HIGH,whitelist
+rantt media,https://rantt.com,-19,HIGH,whitelist
+rapid city journal,http://rapidcityjournal.com,-3,HIGH,whitelist
+rare news,http://rare.us/,9,HIGH,whitelist
+rasmussen reports,http://www.rasmussenreports.com/,7,HIGH,whitelist
+rationalwiki,http://rationalwiki.org/wiki/Main_Page,-11,HIGH,whitelist
+reading the pictures,http://www.readingthepictures.org,-20,HIGH,whitelist
+real clear defense,http://www.realcleardefense.com/,10,HIGH,whitelist
+real clear policy,http://www.realclearpolicy.com/,9,HIGH,whitelist
+real clear politics,http://www.realclearpolitics.com/,9,HIGH,whitelist
+real news network,http://therealnews.com/t2/,-19,HIGH,whitelist
+realclearreligion,https://www.realclearreligion.org,9,HIGH,whitelist
+reason,http://reason.com/,14,HIGH,whitelist
+recode,https://www.recode.net/,-1,HIGH,whitelist
+red pepper,http://www.redpepper.org.uk/,-29,HIGH,whitelist
+red river valley news,http://www.valleynewslive.com/,8,HIGH,whitelist
+red state disaster,https://redstatedisaster.com,-23,HIGH,whitelist
+relevant magazine,https://relevantmagazine.com,3,HIGH,whitelist
+religion news service (rns),http://religionnews.com,-11,HIGH,whitelist
+remington research group,https://remingtonresearchgroup.com,6,HIGH,whitelist
+reporters lab,http://reporterslab.org/,-1,VERY HIGH,whitelist
+reporters without borders,https://rsf.org/en,-5,HIGH,whitelist
+represent.us,https://represent.us/,-5,HIGH,whitelist
+restore american glory,http://www.restoreamericanglory.com/,26,HIGH,whitelist
+reuters,http://www.reuters.com/,-3,VERY HIGH,whitelist
+reveal – center for investigative reporting,https://www.revealnews.org/,-7,HIGH,whitelist
+reverb press,http://reverbpress.news/,-22,HIGH,whitelist
+revere press,http://reverepress.com,-27,HIGH,whitelist
+revolution news,http://revolution-news.com/,-20,HIGH,whitelist
+rewire,https://rewire.news/,-18,HIGH,whitelist
+richmond times-dispatch,http://www.richmond.com/,10,HIGH,whitelist
+right web,http://rightweb.irc-online.org,-13,HIGH,whitelist
+ring of fire,https://trofire.com/,-27,HIGH,whitelist
+riverbender.com,https://www.riverbender.com/,-2,HIGH,whitelist
+roanoke times,http://www.roanoke.com/,-8,HIGH,whitelist
+roll call,http://www.rollcall.com/,-4,VERY HIGH,whitelist
+rolling stone,http://www.rollingstone.com/,-16,HIGH,whitelist
+roosevelt institute,http://rooseveltinstitute.org/,-12,HIGH,whitelist
+rte (radio television of ireland),https://www.rte.ie,-3,HIGH,whitelist
+rudaw,http://rudaw.net/english,-10,HIGH,whitelist
+russian media monitor,http://www.russialies.com,-5,HIGH,whitelist
+russian news agency-tass,http://tass.com/,10,HIGH,whitelist
+sacramento bee,http://www.sacbee.com/,-11,HIGH,whitelist
+salem radio network news (srn news),http://www.srnnews.com/,8,HIGH,whitelist
+salon,http://www.salon.com/,-25,HIGH,whitelist
+salt lake tribune,http://www.sltrib.com/,-10,HIGH,whitelist
+san antonio express-news,http://www.mysanantonio.com/,-9,HIGH,whitelist
+san bernardino sun,https://www.sbsun.com,9,HIGH,whitelist
+san diego free press,https://sandiegofreepress.org/,-15,HIGH,whitelist
+san diego reader,https://www.sandiegoreader.com,-14,HIGH,whitelist
+san diego union tribune,http://www.sandiegouniontribune.com/,-5,HIGH,whitelist
+san francisco chronicle,http://www.sfchronicle.com/,-14,HIGH,whitelist
+san francisco examiner,http://www.sfexaminer.com,-13,HIGH,whitelist
+san jose mercury news,http://www.mercurynews.com/,-13,HIGH,whitelist
+santa barbara independent,http://www.independent.com/,-12,HIGH,whitelist
+santa maria times,http://santamariatimes.com,2,HIGH,whitelist
+sarasota herald-tribune,http://www.heraldtribune.com/,-3,HIGH,whitelist
+saskatoon starphoenix,http://thestarphoenix.com/,12,HIGH,whitelist
+saudi gazette,http://saudigazette.com.sa,-8,HIGH,whitelist
+savannah morning news,http://savannahnow.com/,10,HIGH,whitelist
+save jersey,https://savejersey.com,24,HIGH,whitelist
+sayfie review,http://www.sayfiereview.com/,-1,HIGH,whitelist
+scary mommy,http://www.scarymommy.com/,-18,HIGH,whitelist
+science debate,http://sciencedebate.org/,-3,VERY HIGH,whitelist
+scoopnest,http://www.scoopnest.com/,-1,HIGH,whitelist
+scotusblog,http://www.scotusblog.com/,-3,HIGH,whitelist
+scroll.in,https://scroll.in/,-10,HIGH,whitelist
+seattle post-intelligencer,http://www.seattlepi.com/,-13,HIGH,whitelist
+seattle times,http://www.seattletimes.com/,-14,HIGH,whitelist
+sentencing project,https://www.sentencingproject.org/,-15,HIGH,whitelist
+sfgate,http://www.sfgate.com/,-14,HIGH,whitelist
+shadow proof,https://shadowproof.com,-26,HIGH,whitelist
+shame project,http://shameproject.com/,-12,HIGH,whitelist
+shareably,http://www.shareably.net/,0,HIGH,whitelist
+shorenstein center,https://shorensteincenter.org/,-3,HIGH,whitelist
+simple politics,http://www.simplepolitics.co.uk,0,HIGH,whitelist
+sioux city journal,http://siouxcityjournal.com/,-4,HIGH,whitelist
+sky news,http://news.sky.com/,-12,HIGH,whitelist
+slate,http://www.slate.com/,-23,HIGH,whitelist
+smirking chimp,http://www.smirkingchimp.com/,-22,HIGH,whitelist
+snopes,http://www.snopes.com/,-3,HIGH,whitelist
+socialist standard,http://www.worldsocialism.org/spgb/,-24,HIGH,whitelist
+socialistworker.org,https://socialistworker.org/,-27,HIGH,whitelist
+sofrep,https://sofrep.com/,11,HIGH,whitelist
+sojourners (soho),https://sojo.net/,-12,HIGH,whitelist
+sootoday.com,https://www.sootoday.com/,-13,HIGH,whitelist
+sourcewatch,http://www.sourcewatch.org/index.php/SourceWatch,-20,HIGH,whitelist
+south bend tribune,https://www.southbendtribune.com/,-4,HIGH,whitelist
+south china morning post,http://www.scmp.com/,-4,HIGH,whitelist
+south florida sun-sentinel,http://www.sun-sentinel.com/,8,HIGH,whitelist
+southern poverty law center,https://www.splcenter.org/,-11,HIGH,whitelist
+special broadcasting service (sbs),http://www.sbs.com.au/,-8,HIGH,whitelist
+spectrum news – ny1,http://www.ny1.com/nyc/all-boroughs,-3,HIGH,whitelist
+spiegel online,http://www.spiegel.de/international/,-11,HIGH,whitelist
+st. cloud times,http://www.sctimes.com/,-4,HIGH,whitelist
+st. louis post-dispatch,http://www.stltoday.com/,-10,HIGH,whitelist
+st. paul pioneer press,http://www.twincities.com/,-8,HIGH,whitelist
+st. pete for peace,https://www.stpete4peace.org/,-19,HIGH,whitelist
+star-ledger,http://www.nj.com/starledger/,-14,HIGH,whitelist
+stars and stripes,https://www.stripes.com/,0,HIGH,whitelist
+stat (news),https://www.statnews.com/,-4,HIGH,whitelist
+staten island advance,http://www.silive.com/,-11,HIGH,whitelist
+statesman journal,http://www.statesmanjournal.com/,8,HIGH,whitelist
+stimson center,http://stimson.org/,-1,HIGH,whitelist
+stock news usa,https://stocknewsusa.com,-4,HIGH,whitelist
+stopfake,http://www.stopfake.org/,-12,HIGH,whitelist
+strategic culture foundation,http://www.strategic-culture.org/,11,HIGH,whitelist
+strategypage,https://www.strategypage.com,2,HIGH,whitelist
+stratfor,https://www.stratfor.com/,-3,HIGH,whitelist
+student daily news,https://www.studentnewsdaily.com/,11,HIGH,whitelist
+stuff,https://www.stuff.co.nz/,-9,HIGH,whitelist
+sunlight foundation,http://sunlightfoundation.com/,-1,VERY HIGH,whitelist
+swarajya,https://swarajyamag.com/,11,HIGH,whitelist
+swi – swissinfo.ch,https://www.swissinfo.ch/,-8,HIGH,whitelist
+syrian observatory for human rights (sohr),http://www.syriahr.com/en/,-14,HIGH,whitelist
+tablet magazine,http://www.tabletmag.com/,-14,HIGH,whitelist
+taipei times,http://www.taipeitimes.com/,-4,HIGH,whitelist
+taiwan news,https://www.taiwannews.com.tw/,-4,HIGH,whitelist
+takepart,http://www.takepart.com/,-22,HIGH,whitelist
+talking points memo,http://talkingpointsmemo.com/,-21,HIGH,whitelist
+tallahassee democrat,http://www.tallahassee.com/,7,HIGH,whitelist
+tampa bay times,http://www.tampabay.com/,-11,HIGH,whitelist
+tampa tribune,http://www.tbo.com/,13,HIGH,whitelist
+task and purpose,http://taskandpurpose.com/,-4,HIGH,whitelist
+tax foundation,http://taxfoundation.org/,7,VERY HIGH,whitelist
+tax justice network,https://www.taxjustice.net/,-11,HIGH,whitelist
+tax policy center,http://www.taxpolicycenter.org,-8,HIGH,whitelist
+tea party patriots,http://www.teapartypatriots.org/,20,HIGH,whitelist
+tea party tribune,http://www.teapartytribune.com/,28,HIGH,whitelist
+techcrunch,https://techcrunch.com,-14,HIGH,whitelist
+techdirt,https://www.techdirt.com,-14,HIGH,whitelist
+texas monthly,https://www.texasmonthly.com,-12,HIGH,whitelist
+texas standard,http://www.texasstandard.org/,-2,HIGH,whitelist
+texas tribune,https://www.texastribune.org/,-2,HIGH,whitelist
+tharawat magazine,http://www.tharawat-magazine.com/#gs.a9CcWpc,8,HIGH,whitelist
+that’s nonsense,http://www.thatsnonsense.com/,-1,HIGH,whitelist
+the age (australia),http://www.theage.com.au/,-12,HIGH,whitelist
+the algemeiner journal,https://www.algemeiner.com/,14,HIGH,whitelist
+the american conservative,http://www.theamericanconservative.com/,11,HIGH,whitelist
+the american independent institute,http://americanindependent.com/,-23,HIGH,whitelist
+the american interest,http://www.the-american-interest.com/,11,HIGH,whitelist
+the american prospect,http://prospect.org/,-23,HIGH,whitelist
+the atlantic,https://www.theatlantic.com/,-12,HIGH,whitelist
+the auburn citizen,http://auburnpub.com/,-3,HIGH,whitelist
+the augusta chronicle,http://chronicle.augusta.com/,17,HIGH,whitelist
+the austin chronicle,https://www.austinchronicle.com,-20,HIGH,whitelist
+the australian financial review,http://www.afr.com/,2,HIGH,whitelist
+the australian,http://www.theaustralian.com.au/,12,HIGH,whitelist
+the automatic earth,https://www.theautomaticearth.com/,-9,HIGH,whitelist
+the baffler,https://thebaffler.com/,-13,HIGH,whitelist
+the balance,https://www.thebalance.com,-4,HIGH,whitelist
+the bangkok post,http://www.bangkokpost.com/,-5,HIGH,whitelist
+the baxter bulletin,https://www.baxterbulletin.com,-2,HIGH,whitelist
+the belfer center for science and international affairs,http://www.belfercenter.org/,1,HIGH,whitelist
+the budapest beacon,https://budapestbeacon.com/,-15,HIGH,whitelist
+the bureau of investigative journalism,https://www.thebureauinvestigates.com/,-4,HIGH,whitelist
+the burning spear,http://www.theburningspear.com/,-23,HIGH,whitelist
+the california republican,http://carepublican.com,26,HIGH,whitelist
+the canadian press,http://www.thecanadianpress.com/,-4,HIGH,whitelist
+the canary (uk),http://www.thecanary.co/,-23,HIGH,whitelist
+the center on budget and policy priorities,http://www.cbpp.org/,-10,HIGH,whitelist
+the century foundation,https://tcf.org/,-16,HIGH,whitelist
+the chicago reporter,http://chicagoreporter.com/,-16,HIGH,whitelist
+the china post,http://www.chinapost.com.tw/,-3,HIGH,whitelist
+the christian left,http://www.thechristianleft.org/,-15,HIGH,whitelist
+the chronicle of higher education,http://www.chronicle.com/,-2,HIGH,whitelist
+the cipher brief,https://www.thecipherbrief.com/,1,HIGH,whitelist
+the citizen,https://www.thecitizen.org.au,-11,HIGH,whitelist
+the climate reality project,https://www.climaterealityproject.org/,-18,HIGH,whitelist
+the conversation,https://theconversation.com/us,-4,HIGH,whitelist
+the council of canadians,https://canadians.org/,-13,HIGH,whitelist
+the courier mail,http://www.couriermail.com.au/,14,HIGH,whitelist
+the courier-journal,http://www.courier-journal.com/,-10,HIGH,whitelist
+the daily banter,http://thedailybanter.com/,-23,HIGH,whitelist
+the daily buzz,http://the-daily.buzz/,-19,HIGH,whitelist
+the daily citizen (dalton),http://www.daltondailycitizen.com/,7,HIGH,whitelist
+the daily climate,http://www.dailyclimate.org/,-12,HIGH,whitelist
+the daily gazette,https://dailygazette.com,-4,HIGH,whitelist
+the daily news (longview),https://tdn.com,-5,HIGH,whitelist
+the daily northwestern,https://dailynorthwestern.com,-4,HIGH,whitelist
+the daily progress,http://www.dailyprogress.com,-2,HIGH,whitelist
+the daily tarheel,http://www.dailytarheel.com/,-12,HIGH,whitelist
+the daily vox,https://www.thedailyvox.co.za/,-21,HIGH,whitelist
+the day (new london),http://www.theday.com,-3,HIGH,whitelist
+the defcon warning system,https://www.defconwarningsystem.com,1,HIGH,whitelist
+the des moines register,http://www.desmoinesregister.com/,-4,HIGH,whitelist
+the diplomat magazine,http://thediplomat.com/,0,HIGH,whitelist
+the economic times,http://economictimes.indiatimes.com/,-8,HIGH,whitelist
+the economist,http://www.economist.com/,1,HIGH,whitelist
+the elkhart truth,http://www.elkharttruth.com,-2,HIGH,whitelist
+the epoch times,http://www.theepochtimes.com/,13,HIGH,whitelist
+the establishment,https://theestablishment.co,-23,HIGH,whitelist
+the european council on foreign relations (ecfr),http://www.ecfr.eu/,-14,HIGH,whitelist
+the fake news codex,http://www.fakenewscodex.com/,-1,HIGH,whitelist
+the federalist,http://thefederalist.com/,27,HIGH,whitelist
+the fiscal times,http://www.thefiscaltimes.com/,11,HIGH,whitelist
+the forward,http://forward.com/,-12,HIGH,whitelist
+the frisky,http://www.thefrisky.com/,-20,HIGH,whitelist
+the fucking news,http://thefingnews.com/,-23,HIGH,whitelist
+the gazette (cedar rapids),http://www.thegazette.com/,11,HIGH,whitelist
+the globe and mail,http://www.theglobeandmail.com/,7,HIGH,whitelist
+the guardian,https://www.theguardian.com/us,-14,HIGH,whitelist
+the hartford courant,http://www.courant.com/,-12,HIGH,whitelist
+the hayride,http://thehayride.com/,28,HIGH,whitelist
+the herald (everett),http://www.heraldnet.com/,-8,HIGH,whitelist
+the herald journal (utah),https://news.hjnews.com/,0,HIGH,whitelist
+the herald-sun (durham/north carolina),https://www.heraldsun.com,-5,HIGH,whitelist
+the hill,http://thehill.com/,-8,HIGH,whitelist
+the hindu business line,http://www.thehindubusinessline.com/,7,HIGH,whitelist
+the hindu,http://newsite.thehindu.com/,-8,HIGH,whitelist
+the humanist magazine,https://thehumanist.com/,-5,HIGH,whitelist
+the independent review,http://www.independent.org/,6,HIGH,whitelist
+the independent,http://www.independent.co.uk/us,-15,HIGH,whitelist
+the indian express,http://indianexpress.com/,-3,HIGH,whitelist
+the intellectualist,https://theintellectualist.co/,-20,HIGH,whitelist
+the intercept,https://theintercept.com/,-17,HIGH,whitelist
+the irish times,http://www.irishtimes.com/,-8,HIGH,whitelist
+the irrawaddy,http://www.irrawaddy.com/,-13,HIGH,whitelist
+the jack news,https://www.thejacknews.com,9,HIGH,whitelist
+the jakarta post,http://www.thejakartapost.com/,-2,HIGH,whitelist
+the jamestown foundation,http://www.jamestown.org/,11,HIGH,whitelist
+the japan news,http://the-japan-news.com/,8,HIGH,whitelist
+the jerusalem post,http://www.jpost.com/,-3,HIGH,whitelist
+the jerusalem report,http://www.jpost.com/Jerusalem-Report,-12,HIGH,whitelist
+the jewish press,http://www.jewishpress.com/,9,HIGH,whitelist
+the jordan times,http://www.jordantimes.com/,-4,HIGH,whitelist
+the journal news,http://www.lohud.com/,-12,HIGH,whitelist
+the knife,http://theknifemedia.com/,1,HIGH,whitelist
+the libertarian republic,http://thelibertarianrepublic.com/,14,HIGH,whitelist
+the lily,https://www.thelily.com/,-18,HIGH,whitelist
+the local (norway),http://www.thelocal.no/,-12,HIGH,whitelist
+the manila times,http://www.manilatimes.net/news/,10,HIGH,whitelist
+the marshall project,https://www.themarshallproject.org/#.qjbbuljBK,-3,HIGH,whitelist
+the mary sue,https://www.themarysue.com,-21,HIGH,whitelist
+the meme policeman,http://memepoliceman.com/,2,HIGH,whitelist
+the middle east in london,http://www.soas.ac.uk/lmei/meil/,3,HIGH,whitelist
+the militant,http://www.themilitant.com/,-19,HIGH,whitelist
+the millennial review,https://themilreview.com/,26,HIGH,whitelist
+the moderate voice,http://themoderatevoice.com/,-3,HIGH,whitelist
+the monthly (australia),https://www.themonthly.com.au/,-11,HIGH,whitelist
+the morning call,http://www.mcall.com,-3,HIGH,whitelist
+the morning star,http://www.morningstaronline.co.uk/,-22,HIGH,whitelist
+the nation institute,http://www.nationinstitute.org/,-14,HIGH,whitelist
+the nation pakistan,http://nation.com.pk/,13,HIGH,whitelist
+the nation,https://www.thenation.com/,-21,HIGH,whitelist
+the national (uae),http://www.thenational.ae/,9,HIGH,whitelist
+the national memo,http://www.nationalmemo.com/,-22,HIGH,whitelist
+the nevada independent,https://thenevadaindependent.com,-13,HIGH,whitelist
+the new arab,https://www.alaraby.co.uk/english,-14,HIGH,whitelist
+the new atlantis,http://www.thenewatlantis.com/,9,HIGH,whitelist
+the new tropic,https://thenewtropic.com,-14,HIGH,whitelist
+the news (mexico city),http://www.thenews.mx/,-3,HIGH,whitelist
+the news international,https://www.thenews.com.pk/,-4,HIGH,whitelist
+the news lens,https://international.thenewslens.com/,7,HIGH,whitelist
+the news literacy project,http://www.thenewsliteracyproject.org/,-1,HIGH,whitelist
+the news tribune,http://www.thenewstribune.com/,-10,HIGH,whitelist
+the news-times (danbury),https://www.newstimes.com/,-10,HIGH,whitelist
+the next web,https://thenextweb.com,-9,HIGH,whitelist
+the objective standard,https://www.theobjectivestandard.com,15,HIGH,whitelist
+the observatory,https://observatory.journalism.wisc.edu/,-3,HIGH,whitelist
+the observer (uk),https://www.theguardian.com/observer,-13,HIGH,whitelist
+the oklahoman,http://www.oklahoman.com/live,11,HIGH,whitelist
+the olympian,http://www.theolympian.com,-11,HIGH,whitelist
+the oslo times,http://www.theoslotimes.com/,-12,HIGH,whitelist
+the outline,https://theoutline.com/,-19,HIGH,whitelist
+the outlook (monmouth university),http://outlook.monmouth.edu/,-4,HIGH,whitelist
+the pantagraph,http://www.pantagraph.com/,-3,HIGH,whitelist
+the patriot-news,http://www.pennlive.com/,-7,HIGH,whitelist
+the phnom penh post,http://www.phnompenhpost.com/,-2,HIGH,whitelist
+the plain dealer,http://www.cleveland.com/plaindealer/,-12,HIGH,whitelist
+the post and courier,http://www.postandcourier.com/,2,HIGH,whitelist
+the post millennial,https://www.thepostmillennial.com,23,HIGH,whitelist
+the post star,http://poststar.com,1,HIGH,whitelist
+the press democrat,http://www.pressdemocrat.com,-9,HIGH,whitelist
+the press-enterprise,http://www.pe.com/,11,HIGH,whitelist
+the progressive,http://www.progressive.org/,-23,HIGH,whitelist
+the providence journal,http://www.providencejournal.com/,-12,HIGH,whitelist
+the pulse,http://pulsegulfcoast.com/,-15,HIGH,whitelist
+the reality-based community,http://www.samefacts.com/,-21,HIGH,whitelist
+the record (new jersey),http://www.northjersey.com/,-10,HIGH,whitelist
+the ringer,https://www.theringer.com,-12,HIGH,whitelist
+the root,http://www.theroot.com/,-22,HIGH,whitelist
+the santa fe new mexican,http://www.santafenewmexican.com,-8,HIGH,whitelist
+the saturday paper,https://www.thesaturdaypaper.com.au/,-14,HIGH,whitelist
+the scotsman,http://www.scotsman.com,-3,HIGH,whitelist
+the sentinel (pennsylvania),http://cumberlink.com,-3,HIGH,whitelist
+the skimm,http://www.theskimm.com/,-4,HIGH,whitelist
+the smoking gun,http://www.thesmokinggun.com/,7,HIGH,whitelist
+the sociable,https://sociable.co/,-3,HIGH,whitelist
+the source newspaper (la source),http://thelasource.com/en/,-24,HIGH,whitelist
+the southern illinoisan,http://thesouthern.com,2,HIGH,whitelist
+the spectator (uk),http://www.spectator.co.uk/,17,HIGH,whitelist
+the spokesman-review,http://www.spokesman.com/,6,HIGH,whitelist
+the star democrat,http://www.stardem.com,-4,HIGH,whitelist
+the state,http://www.thestate.com/,-12,HIGH,whitelist
+the straits times,http://www.straitstimes.com/global,10,HIGH,whitelist
+the stranger,http://www.thestranger.com/,-17,HIGH,whitelist
+the strategy bridge,https://thestrategybridge.org,2,HIGH,whitelist
+the sun magazine,http://thesunmagazine.org/,-15,HIGH,whitelist
+the swedish wire,http://www.swedishwire.com/,-4,HIGH,whitelist
+the sydney morning herald,http://www.smh.com.au/,-13,HIGH,whitelist
+the tab,https://thetab.com/,-12,HIGH,whitelist
+the tennessean,http://www.tennessean.com/,11,HIGH,whitelist
+the tennessee star,http://tennesseestar.com/,27,HIGH,whitelist
+the texas observer,https://www.texasobserver.org,-20,HIGH,whitelist
+the times (illinois),http://www.mywebtimes.com,0,HIGH,whitelist
+the times and democrat,http://thetandd.com,-5,HIGH,whitelist
+the times herald (port huron),https://www.thetimesherald.com,9,HIGH,whitelist
+the times of london,http://www.thetimes.co.uk/,11,HIGH,whitelist
+the times-picayune,http://www.nola.com/#/0,-14,HIGH,whitelist
+the trace,https://www.thetrace.org,-11,HIGH,whitelist
+the truth about guns,http://www.thetruthaboutguns.com/,22,HIGH,whitelist
+the truthsetter,https://truthsetter.com,1,HIGH,whitelist
+the tyee,https://thetyee.ca/,-15,HIGH,whitelist
+the varsity,https://thevarsity.ca/,-9,HIGH,whitelist
+the verge,http://www.theverge.com/,-13,HIGH,whitelist
+the village voice,http://www.villagevoice.com/,-19,HIGH,whitelist
+the virginian-pilot,http://pilotonline.com/,-7,HIGH,whitelist
+the walrus,https://thewalrus.ca/,-22,HIGH,whitelist
+the waterloo-cedar falls courier,http://wcfcourier.com,-3,HIGH,whitelist
+the week,http://theweek.com/,-13,HIGH,whitelist
+the west australian,https://thewest.com.au/,12,HIGH,whitelist
+the whim,http://www.thewhim.com/,-2,HIGH,whitelist
+the wilderness society,http://wilderness.org/,-11,HIGH,whitelist
+the wire – india,https://thewire.in/,-8,HIGH,whitelist
+the world can’t wait,https://worldcantwait.net/,-24,HIGH,whitelist
+the young turks,https://tytnetwork.com/,-22,HIGH,whitelist
+the zero hour,http://www.thisisthezerohour.com/,-15,HIGH,whitelist
+thegrio,http://thegrio.com/,-21,HIGH,whitelist
+theimproper magazine,https://www.theimproper.com,-25,HIGH,whitelist
+thejournal.ie,http://www.thejournal.ie/,-4,HIGH,whitelist
+third way,http://www.thirdway.org/,-4,HIGH,whitelist
+this magazine,https://this.org/,-22,HIGH,whitelist
+thomson reuters foundation,http://news.trust.org/,-8,HIGH,whitelist
+thoughtco,https://www.thoughtco.com,-1,VERY HIGH,whitelist
+time magazine,http://time.com/,-17,HIGH,whitelist
+timeline,https://timeline.com,-7,HIGH,whitelist
+times news (pennsylvania),https://www.tnonline.com,7,HIGH,whitelist
+times of india,http://timesofindia.indiatimes.com/,-2,HIGH,whitelist
+times of israel,http://www.timesofisrael.com/,-10,HIGH,whitelist
+times of san diego,http://timesofsandiego.com/,-4,HIGH,whitelist
+times-colonist,http://www.timescolonist.com/,-13,HIGH,whitelist
+times-news (idaho),http://magicvalley.com/,-3,HIGH,whitelist
+to inform is to influence,https://toinformistoinfluence.com/,-12,HIGH,whitelist
+today i found out,http://www.todayifoundout.com/,-1,HIGH,whitelist
+toledo blade,http://www.toledoblade.com/,6,HIGH,whitelist
+tomdispatch.com,http://www.tomdispatch.com/,-13,HIGH,whitelist
+topeka capital-journal,http://www.cjonline.com/,7,HIGH,whitelist
+toronto star,https://www.thestar.com/,-17,HIGH,whitelist
+toronto sun,http://www.torontosun.com/,22,HIGH,whitelist
+transparency international,https://www.transparency.org/,-1,VERY HIGH,whitelist
+transpartisan review,http://www.transpartisanreview.com/,-3,HIGH,whitelist
+tribune magazine uk,http://www.tribunemagazine.org/,-22,HIGH,whitelist
+tribune news service,https://tribunecontentagency.com/tribune-news-service/,-3,HIGH,whitelist
+true viral news,http://trueviralnews.com/,1,HIGH,whitelist
+truth against the machine,https://truthagainstthemachine.com,-27,HIGH,whitelist
+truth be told,http://truthbetold.news/,-3,HIGH,whitelist
+truthdig,http://www.truthdig.com/,-23,HIGH,whitelist
+truthorfiction.com,https://www.truthorfiction.com/,-1,VERY HIGH,whitelist
+tulsa world,http://www.tulsaworld.com/,11,HIGH,whitelist
+turkey and facts (dogruluk payi),https://turkeyandfacts.com/,-1,VERY HIGH,whitelist
+tvw washington state,http://www.tvw.org/,-1,HIGH,whitelist
+undark,https://undark.org,-3,HIGH,whitelist
+unicorn riot,http://www.unicornriot.ninja/,-16,HIGH,whitelist
+united federation of teachers (uft),http://www.uft.org/,-13,HIGH,whitelist
+united press international (upi),http://www.upi.com/,3,HIGH,whitelist
+united states house of representatives (house.gov),https://www.house.gov/,-1,VERY HIGH,whitelist
+university business,https://www.universitybusiness.com/,-8,HIGH,whitelist
+uproxx,http://uproxx.com/,-19,HIGH,whitelist
+upworthy,https://www.upworthy.com/,-18,HIGH,whitelist
+urban institute,http://www.urban.org/,-14,HIGH,whitelist
+us government accountability office (gao),https://www.gao.gov,-1,HIGH,whitelist
+us news world report,http://www.usnews.com/,-8,HIGH,whitelist
+usa facts,http://www.usafacts.org/,-1,VERY HIGH,whitelist
+usa spending,https://www.usaspending.gov/,-1,VERY HIGH,whitelist
+usa today,http://www.usatoday.com/,-9,HIGH,whitelist
+utah public radio (upr),http://upr.org,-7,HIGH,whitelist
+utah standard-examiner,http://www.standard.net/,1,HIGH,whitelist
+valuewalk,http://www.valuewalk.com/,11,HIGH,whitelist
+vancouver sun,http://vancouversun.com/,-11,HIGH,whitelist
+vanity fair,http://www.vanityfair.com/,-21,HIGH,whitelist
+vera files,http://verafiles.org,-3,VERY HIGH,whitelist
+verified politics,http://verifiedpolitics.com,-26,HIGH,whitelist
+verrit,https://verrit.com,-22,HIGH,whitelist
+vocativ,http://www.vocativ.com/,-4,HIGH,whitelist
+voice of america,http://www.voanews.com/,-3,HIGH,whitelist
+voice of san diego,http://www.voiceofsandiego.org/,-5,HIGH,whitelist
+vos iz neias,https://www.vosizneias.com,-3,HIGH,whitelist
+vote smart,http://votesmart.org/,-1,HIGH,whitelist
+votevets.org,http://www.votevets.org/,-13,HIGH,whitelist
+vox,http://www.vox.com/,-23,HIGH,whitelist
+vulture,http://www.vulture.com,-14,HIGH,whitelist
+wall street journal,http://www.wsj.com/,11,HIGH,whitelist
+wall street on parade,http://wallstreetonparade.com/,-15,HIGH,whitelist
+war on the rocks,http://warontherocks.com/,-5,HIGH,whitelist
+washington babylon,http://washingtonbabylon.com,15,HIGH,whitelist
+washington blade,http://www.washingtonblade.com/,-15,HIGH,whitelist
+washington examiner,http://www.washingtonexaminer.com/,21,HIGH,whitelist
+washington journal (not c-span),http://washingtonjournal.com/,-27,HIGH,whitelist
+washington journal,https://www.c-span.org/WJ,-3,HIGH,whitelist
+washington monthly,http://washingtonmonthly.com/,-18,HIGH,whitelist
+washington post,https://www.washingtonpost.com/,-15,HIGH,whitelist
+washington times,http://www.washingtontimes.com/,17,HIGH,whitelist
+waterbury republican-american,http://www.rep-am.com/,12,HIGH,whitelist
+we are the mighty,http://www.wearethemighty.com/,3,HIGH,whitelist
+wear your voice,https://wearyourvoicemag.com,-22,HIGH,whitelist
+weekly standard,http://www.weeklystandard.com/,23,HIGH,whitelist
+westmonster,http://www.westmonster.com/,12,HIGH,whitelist
+wgn news,http://wgntv.com/,-8,HIGH,whitelist
+what matters news,http://whatmattersnews.com/,-26,HIGH,whitelist
+wichita eagle,http://www.kansas.com/,6,HIGH,whitelist
+wikinews,https://en.wikinews.org/wiki/Main_Page,-2,HIGH,whitelist
+wikipedia,https://www.wikipedia.org/,-1,HIGH,whitelist
+wikitribune,https://www.wikitribune.com,-2,HIGH,whitelist
+williamsport sun-gazette,http://www.sungazette.com/,10,HIGH,whitelist
+windsor star,http://windsorstar.com/,-11,HIGH,whitelist
+wings over scotland,https://wingsoverscotland.com,-16,HIGH,whitelist
+winona daily news,http://www.winonadailynews.com,-3,HIGH,whitelist
+winston-salem journal,http://www.journalnow.com/,10,HIGH,whitelist
+wired magazine,https://www.wired.com/,-13,HIGH,whitelist
+wisconsin state journal,http://host.madison.com/wsj/,-2,HIGH,whitelist
+wnyc,http://www.wnyc.org/,-11,HIGH,whitelist
+woodrow wilson international center for scholars,https://www.wilsoncenter.org/,-3,VERY HIGH,whitelist
+world affairs journal,http://www.worldaffairsjournal.org/,-8,HIGH,whitelist
+world economic forum,https://www.weforum.org/,-4,HIGH,whitelist
+world news,http://wn.com/,1,HIGH,whitelist
+world policy institute,http://www.worldpolicy.org/,-14,HIGH,whitelist
+world politics review,http://www.worldpoliticsreview.com/,5,HIGH,whitelist
+world press review,http://worldpress.org/,-2,VERY HIGH,whitelist
+world resources institute (wri),http://www.wri.org/,-3,VERY HIGH,whitelist
+world socialist web site,http://www.wsws.org/,-24,HIGH,whitelist
+world tribune,http://worldtribune.com/,22,HIGH,whitelist
+worldcrunch,https://www.worldcrunch.com/,-11,HIGH,whitelist
+wral,http://www.wral.com/,-3,HIGH,whitelist
+yellowhammer news,http://yellowhammernews.com/,20,HIGH,whitelist
+yes magazine,http://www.yesmagazine.org/,-22,HIGH,whitelist
+ynetnews,http://www.ynetnews.com/,-14,HIGH,whitelist
+york daily record,http://www.ydr.com/,-7,HIGH,whitelist
+young america’s foundation (yaf),https://www.yaf.org,23,HIGH,whitelist
+youth radio,https://youthradio.org/,-10,HIGH,whitelist
+z magazine,https://zcomm.org/zmag/,-22,HIGH,whitelist
+zdf (zweites deutsches fernsehen),https://www.zdf.de/,-5,HIGH,whitelist
