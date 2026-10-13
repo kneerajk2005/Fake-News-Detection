@@ -1,11 +1,11 @@
 Fake News Detection 
 
-A hybrid **Natural Language Processing (NLP)** application that detects fake news by combining DistilBERT-based text classification with domain credibility verification.
+A hybrid **Natural Language Processing (NLP)** application that detects fake news by combining BERT-based text classification with domain credibility verification.
 The system analyzes the content of a news article, validates its source against whitelist/blacklist domains, and predicts whether the news is **Real** or **Fake** through a simple Flask web interface.
 
 Features
 
- DistilBERT-based fake news classification
+ BERT-based fake news classification
  Domain whitelist & blacklist verification
  News text preprocessing and cleaning
  Real-time prediction through a Flask web application
@@ -16,7 +16,7 @@ Features
 
  Category         Technologies                           
  Language         Python                                 
- NLP Model        DistilBERT  
+ NLP Model        BERT  
  Deep Learning    PyTorch                                
  Web Framework    Flask                                  
  Data Processing  Pandas, NumPy                          
@@ -28,7 +28,7 @@ Fake-News-Detection/
 
      data/
      
-     saved_model_distilbert/      
+     saved_model_bert/      
      
      templates - index.html               
      
@@ -50,7 +50,7 @@ Methodology
 1. User enters a news article.
 2. The text is cleaned and preprocessed.
 3. The news source is validated using whitelist/blacklist domain datasets.
-4. DistilBERT tokenizes and encodes the input text.
+4. BERT tokenizes and encodes the input text.
 5. The trained model predicts whether the news is **Real** or **Fake**.
 6. The prediction is displayed through the Flask interface.
 
