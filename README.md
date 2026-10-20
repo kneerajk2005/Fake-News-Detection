@@ -99,6 +99,8 @@ Neeraj Kumar
 
 Sasidhar
 
+Kushal Emuri 
+
 Integrated M.Tech in Computer Science and Engineering
 
 Cloud Computing • NLP • Machine Learning • Azure
