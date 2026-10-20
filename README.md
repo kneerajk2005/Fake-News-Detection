@@ -1,7 +1,7 @@
 Fake News Detection 
 
 A hybrid **Natural Language Processing (NLP)** application that detects fake news by combining BERT-based text classification with domain credibility verification.
-The system analyzes the content of a news article, validates its source against whitelist/blacklist domains, and predicts whether the news is **Real** or **Fake** through a simple Flask web interface.
+The system analyzes the content of a news article provided, validates its source against whitelist/blacklist domains, and predicts whether the news is **Real** or **Fake** through a simple Flask web interface.
 
 Features
 
